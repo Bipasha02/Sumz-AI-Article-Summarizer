@@ -1,3 +1,5 @@
-# ChatGPT-OpenAI-SaaS
+# Sumz – AI Article Summarizer (ChatGPT-OpenAI-SaaS)
 
-SaaS refers to a cloud computing model where software applications are hosted on a centralized server and provided to customers over the internet on a subscription basis. chatbots and conversational agents. It allows businesses and developers to integrate advanced AI-powered chat capabilities into their applications and services without the need for extensive knowledge of machine learning or natural language processing.
+Sumz is an AI-powered article summarization platform designed to help users consume online information faster.
+
+Users can paste the URL of an online article, and the application extracts the article content and generates a concise summary using AI. The goal is to reduce the time and effort required to understand long-form content while retaining the most important information.
